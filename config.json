@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "ServerID": "SERVER_ID"
+}
